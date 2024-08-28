@@ -10,7 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
+# <span style="color: red;"> Header 1 </span>
 # Header 1
 ## Header 2
 ### Header 3
